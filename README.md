@@ -15,12 +15,16 @@ To build this project, you will need the following components:
 * x2 ULN2003A
 
 ## Schematics
+### Bluetooth
 ![Imgur](https://imgur.com/DgFvG4D.png)
 
+### Line follower driver
 ![Imgur](https://imgur.com/zG72RWh.png)
 
+### Stepper motor 
 ![Imgur](https://imgur.com/TY1OinP.png)
 
+### CHQ 1838
 ![Imgur](https://imgur.com/0t8fTrT.png)
 
 ## Credits
