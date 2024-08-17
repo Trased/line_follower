@@ -15,10 +15,13 @@ To build this project, you will need the following components:
 * x2 ULN2003A
 
 ## Schematics
-[Imgur](https://imgur.com/DgFvG4D.png)
-[Imgur](https://imgur.com/zG72RWh.png)
-[Imgur](https://imgur.com/TY1OinP.png)
-[Imgur](https://imgur.com/0t8fTrT.png)
+![Imgur](https://imgur.com/DgFvG4D.png)
+
+![Imgur](https://imgur.com/zG72RWh.png)
+
+![Imgur](https://imgur.com/TY1OinP.png)
+
+![Imgur](https://imgur.com/0t8fTrT.png)
 
 ## Credits
 
